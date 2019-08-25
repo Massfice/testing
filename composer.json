@@ -1,0 +1,12 @@
+{
+    "name": "massfice/testing",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Massfice",
+            "email": "adrian.marian.tomasz.larysz@gmail.com"
+        }
+    ],
+    "require": {}
+}
